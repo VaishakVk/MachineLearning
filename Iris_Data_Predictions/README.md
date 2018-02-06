@@ -20,5 +20,3 @@ To install any of the libraries, run pip install `library_name`
 - `Decision Tree` 
 - `SVM`
 - `Random Forest`
-
-@github/VaishakVk
