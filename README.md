@@ -1,2 +1,2 @@
 # MachineLearning
-Machine Learning Projects in Python
+Machine Learning Projects in Python 
