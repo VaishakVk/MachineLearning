@@ -9,10 +9,10 @@ Data Fields - sepal_length,sepal_width,petal_length,petal_width,species
 Count - 150
 
 ## Requirements
-- pandas
-- seaborn
-- sklearn
-- matplotlib
+- `pandas`
+- `seaborn`
+- `sklearn`
+- `matplotlib`
 
 ## Classifiers
-Classifiers used - 'Decision Tree' , 'SVM' , 'Random Forest'
+Classifiers used - `Decision Tree` , `SVM` , `Random Forest`
