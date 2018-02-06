@@ -14,5 +14,9 @@ or the same file cane found in the project - [iris.csv](iris.csv).
 - `sklearn`
 - `matplotlib`
 
+To install any of the libraries, run pip install `library_name`
+
 ## Classifiers
-Classifiers used - `Decision Tree` , `SVM` , `Random Forest`
+- `Decision Tree` 
+- `SVM`
+- `Random Forest`
