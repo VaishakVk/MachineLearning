@@ -2,7 +2,6 @@
 
 ## Data Download
 Data set available from: http://www2.aueb.gr/users/ion/data/enron-spam/
-or the same file cane found in the project - [iris.csv](iris.csv). 
 
 ## Data Structure
 - Data File - 6 sets of Ham and Spam mails
