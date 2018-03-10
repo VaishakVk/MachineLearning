@@ -7,6 +7,7 @@ or the same file can be found in the project - [train.csv](train.csv) and [test.
 
 ## Data Structure
 - Data Fields 
+
 |Variable name|Description|
 |-------|-------|
 |Observation|Observation ID|
