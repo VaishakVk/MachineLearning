@@ -37,8 +37,8 @@ or the same file can be found in the project - [train.csv](train.csv) and [test.
 |Tdewpoint|Dew point temperature in °C|
 |Energy|Energy used by appliances in Wh|
 
-- Count - 15782 in Test
-        - 3946
+- Count - 15782 in Train
+        - 3946 in Test
 
 ## Requirements
 - `pandas`
