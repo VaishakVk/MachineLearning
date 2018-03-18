@@ -83,8 +83,9 @@ or the same file can be found in the project - [criminal_test.csv](criminal_test
 |VEREP|ANALYSIS REPLICATE|
 |Criminal|Target Variable|
 
-- Count - 45720 in Train
-        - 11432 in Test
+- Count 
+- 45720 in Train
+- 11432 in Test
 
 ## Requirements
 - `pandas`
